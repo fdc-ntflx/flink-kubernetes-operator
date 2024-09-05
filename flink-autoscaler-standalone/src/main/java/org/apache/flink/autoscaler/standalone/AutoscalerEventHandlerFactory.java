@@ -33,7 +33,7 @@ import static org.apache.flink.autoscaler.standalone.config.AutoscalerStandalone
 import static org.apache.flink.autoscaler.standalone.config.AutoscalerStandaloneOptions.JDBC_EVENT_HANDLER_TTL;
 import static org.apache.flink.configuration.description.TextElement.text;
 
-/** The factory of {@link AutoScalerEventHandler}. */
+/** The fdc factory of {@link AutoScalerEventHandler}. */
 public class AutoscalerEventHandlerFactory {
 
     /** Out-of-box event handler type. */
